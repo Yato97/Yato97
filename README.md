@@ -19,6 +19,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="res/cpp.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="res/delphi.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="res/docker.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="res/kube.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 <h2  align="center"> :fire: My Stats </h2>
